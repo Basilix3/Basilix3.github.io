@@ -1,22 +1,32 @@
 h2{
     text-align: center;
-    color: purple;
+    color: plum;
     font-family:'Courier New', Courier, monospace
 }
 
 p1{
-    font-family:'Courier New', Courier, monospace
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: white
 }
 
 .logo{
     border-radius: 10px;
     width: 75%;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto
 
 }
 
 p2{
-    background-color: yellow;
-    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace
+}
+
+p3{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: white;
+    text-align: center
 }
