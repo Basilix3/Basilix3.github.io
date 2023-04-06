@@ -25,3 +25,29 @@ p3{
     color: white;
     text-align: center
 }
+
+/* unvisited link */
+a:link {
+    color: plum;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: plum;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: white;
+  }
+
+  h3{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: plum;
+  }
