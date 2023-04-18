@@ -51,3 +51,8 @@ a:link {
     font-family: 'Courier New', Courier, monospace;
     color: plum;
   }
+
+::selection{
+  color:violet;
+  background: beige;
+}
